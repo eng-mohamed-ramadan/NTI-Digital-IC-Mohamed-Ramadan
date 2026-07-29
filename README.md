@@ -2,7 +2,7 @@
 
 Welcome to my **NTI Digital IC** repository.
 
-This repository contains the projects, labs, assignments, and notes completed during the **National Telecommunication Institute (NTI) Digital IC Training Program**.
+This repository contains the projects, labs, assignments, and notes completed during the **National Telecommunication Institute ( NTI ) Digital IC Training Program**.
 
 ## About
 
