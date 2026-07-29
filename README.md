@@ -6,7 +6,7 @@ This repository contains the projects, labs, assignments, and notes completed du
 
 ## About
 
-The purpose of this repository is to document my learning journey in Digital Integrated Circuit (Digital IC) Design and showcase the practical work completed throughout the training.
+The purpose of this repository is to document my learning journey in Digital Integrated Circuit ( Digital IC ) Design and showcase the practical work completed throughout the training.
 
 ## Repository Contents
 
